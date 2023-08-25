@@ -48,8 +48,7 @@ Create a virtual anaconda environment. Use only Python 3.5 or 3.6 .
 #### conda create -n <env name> python=3.6.1 
 Activate Virtual Environment:
 #### conda activate <env name>
-Clone the Repo.
-#### git clone https://github.com/adipro7/Handwritten-Captcha-Recognition.git
+
 Go to the location of your cloned repo.
 #### cd Handwritten-Captcha-Recognition
 Install requirements:
